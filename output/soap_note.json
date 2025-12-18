@@ -1,0 +1,17 @@
+{
+  "Subjective": {
+    "Chief_Complaint": "Neck and back pain after car accident",
+    "History_of_Present_Illness": "Pain severe initially, improved after physiotherapy."
+  },
+  "Objective": {
+    "Physical_Exam": "Full range of motion, no tenderness."
+  },
+  "Assessment": {
+    "Diagnosis": "Whiplash injury",
+    "Severity": "Mild, improving"
+  },
+  "Plan": {
+    "Treatment": "Continue exercises as needed",
+    "Follow_Up": "Return if symptoms worsen"
+  }
+}
